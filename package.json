@@ -1,0 +1,22 @@
+{
+  "name": "lightspeedc-heroku",
+  "version": "0.0.0",
+  "description": "lightspeedc-heroku",
+  "main": "index.js",
+  "engines": {
+    "node": "8"
+  },
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "LightSpeedC/lightspeedc-heroku"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "LightSpeedC",
+  "license": "MIT"
+}
